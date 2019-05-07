@@ -2,6 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
+		//Classe para testar os metodos
 		ListaEncadeada list = new ListaEncadeada();
 		list.add(1);
 		list.add(2);
